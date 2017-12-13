@@ -1,0 +1,4 @@
+C:\Users\Kelly Kuromi\mis cosas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\Kelly Kuromi\mis cosas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Form2.resources
+C:\Users\Kelly Kuromi\mis cosas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Kelly Kuromi\mis cosas\Documents\Visual Studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
